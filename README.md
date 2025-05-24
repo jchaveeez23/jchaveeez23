@@ -1,8 +1,8 @@
 
-# Hola Buenas, soy Josue Chavez 😀
+# Hi there!, I'm Josue Chavez 😀
 
-- Estudiante de Ingenieria en Sistemas, USAC 💻
-- De Mixco, Guatemala 📍
+- Software Engineering Student, USAC 💻
+- From Mixco, Guatemala 📍
 - Backend Developer ⚙️
 
 ## Contact Me 📱
