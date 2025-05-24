@@ -1,5 +1,5 @@
 
-# Hi there!, I'm Josue Chavez 😀
+# Hey there!, I'm Josue Chavez 😀
 
 - Software Engineering Student, USAC 💻
 - From Mixco, Guatemala 📍
